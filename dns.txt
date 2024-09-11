@@ -1,13 +1,13 @@
 https://play.google.com/log?format=json&hasfast=true&authuser=0
 https://www.youtube.com/api/stats/*
-||google.com/log?$redirect=nooptext
-||youtube.com/api/stats/qoe?
-||youtube.com/youtubei/v1/log_event?
-||youtube.com/ptracking?
-||youtube.com/pagead/
-||doubleclick.net^
-||youtube.com/api/stats/atr?
-||google.com/log?$redirect=nooptext
+google.com/log?$redirect=nooptext
+youtube.com/api/stats/qoe?
+youtube.com/youtubei/v1/log_event?
+youtube.com/ptracking?
+youtube.com/pagead/
+doubleclick.net^
+youtube.com/api/stats/atr?
+google.com/log?$redirect=nooptext
 /pagead/lvz?
 www.youtube.com##.ytp-featured-product
 youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
